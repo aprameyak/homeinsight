@@ -7,3 +7,7 @@ Home Inspection Intelligence
 ```bash
 npm install && npm start
 ```
+
+## License
+
+MIT, see [LICENSE](LICENSE).
